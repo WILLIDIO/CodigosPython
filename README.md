@@ -1,2 +1,2 @@
-C-digosPython
+ExerciciosPython
 =============
