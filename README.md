@@ -1,2 +1,2 @@
-ExerciciosPython
+Exercicios resolvidos em Python
 =============
